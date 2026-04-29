@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "rating": 4,
+    "comment": "The chicken wraps were actually pretty good today, but they ran out of the spicy sauce halfway through lunch.",
+    "mealItem": "Spicy Chicken Wrap",
+    "studentName": "Alex J.",
+    "timestamp": "2026-04-28T08:30:00.000Z"
+  },
+  {
+    "id": "2",
+    "rating": 2,
+    "comment": "The pasta was super overcooked and quite bland. Needs more seasoning.",
+    "mealItem": "Tomato Basil Pasta",
+    "studentName": "Jordan Smith",
+    "timestamp": "2026-04-28T12:15:00.000Z"
+  },
+  {
+    "id": "3",
+    "rating": 5,
+    "comment": "Taco Tuesday is the best. The beef was seasoned perfectly!",
+    "mealItem": "Beef Tacos",
+    "studentName": "Anonymous Student",
+    "timestamp": "2026-04-28T12:45:00.000Z"
+  }
+]

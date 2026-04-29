@@ -220,6 +220,11 @@ export default function StudentPage() {
           </motion.div>
         )}
       </main>
+
+      <footer className="max-w-xl mx-auto px-6 py-12 mt-10 border-t border-[#1D1D1B]/5 flex justify-between items-center opacity-20 hover:opacity-100 transition-opacity">
+        <p className="text-[10px] font-medium">© {new Date().getFullYear()} Табақ Сыншысы</p>
+        <a href="/admin" className="text-[10px] font-bold uppercase tracking-widest hover:text-[#F27D26]">Әкімшілік</a>
+      </footer>
     </div>
   );
 }
